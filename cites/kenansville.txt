@@ -1,0 +1,8 @@
+@inproceedings{abdullah2021hear,
+title={Hear" no evil", see" kenansville": Efficient and transferable black-box attacks on speech recognition and voice identification systems},
+  author={Abdullah, Hadi and Rahman, Muhammad Sajidur and Garcia, Washington and Blue, Logan and Warren, Kevin and Yadav, Anurag Swarnim and Shrimpton, Tom and Traynor, Patrick}
+  booktitle={Security and Privacy (SP), 2021 IEEE Symposium on},
+  year={2021},
+  organization={IEEE}
+}
+

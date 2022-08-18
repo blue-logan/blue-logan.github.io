@@ -1,0 +1,6 @@
+@inproceedings{vargas2019digital,
+  title={Digital Healthcare-Associated Infection: A Case Study on the Security of a Major Multi-Campus Hospital System.},
+  author={Vargas, Luis and Blue, Logan and Frost, Vanessa and Patton, Christopher and Scaife, Nolen and Butler, Kevin RB and Traynor, Patrick},
+  booktitle={NDSS},
+  year={2019}
+}

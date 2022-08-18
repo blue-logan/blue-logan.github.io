@@ -1,0 +1,8 @@
+@inproceedings{reaves2016authloop,
+  title={AuthLoop: End-to-End Cryptographic Authentication for Telephony over Voice Channels.},
+  author={Reaves, Bradley and Blue, Logan and Traynor, Patrick},
+  booktitle={USENIX Security Symposium},
+  pages={963--978},
+  year={2016}
+}
+

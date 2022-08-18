@@ -1,0 +1,9 @@
+@inproceedings{reaves2016detecting,
+  title={Detecting SMS spam in the age of legitimate bulk messaging},
+  author={Reaves, Bradley and Blue, Logan and Tian, Dave and Traynor, Patrick and Butler, Kevin RB},
+  booktitle={Proceedings of the 9th ACM Conference on Security \& Privacy in Wireless and Mobile Networks},
+  pages={165--170},
+  year={2016},
+  organization={ACM}
+}
+

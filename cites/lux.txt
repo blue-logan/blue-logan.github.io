@@ -1,0 +1,7 @@
+@inproceedings{blue2021lux,
+  title={Lux: Enabling Ephemeral Authorization for Display-Limited IoT Devices},
+  author={Blue, Logan and Marchal, Samuel and Traynor, Patrick and Asokan, N},
+  booktitle={Proceedings of the International Conference on Internet-of-Things Design and Implementation},
+  pages={15--27},
+  year={2021}
+}

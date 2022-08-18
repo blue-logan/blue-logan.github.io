@@ -1,0 +1,10 @@
+@article{reaves2018characterizing,
+  title={Characterizing the Security of the SMS Ecosystem with Public Gateways},
+  author={Reaves, Bradley and Vargas, Luis and Scaife, Nolen and Tian, Dave and Blue, Logan and Traynor, Patrick and Butler, Kevin RB},
+  journal={ACM Transactions on Privacy and Security (TOPS)},
+  volume={22},
+  number={1},
+  pages={2},
+  year={2018},
+  publisher={ACM}
+}

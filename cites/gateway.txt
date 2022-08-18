@@ -1,0 +1,9 @@
+@inproceedings{reaves2016sending,
+  title={Sending out an SMS: Characterizing the Security of the SMS Ecosystem with Public Gateways},
+  author={Reaves, Bradley and Scaife, Nolen and Tian, Dave and Blue, Logan and Traynor, Patrick and Butler, Kevin RB},
+  booktitle={Security and Privacy (SP), 2016 IEEE Symposium on},
+  pages={339--356},
+  year={2016},
+  organization={IEEE}
+}
+

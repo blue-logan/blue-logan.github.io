@@ -1,0 +1,7 @@
+@inproceedings{blue2022who,
+  title={{Who Are You (I Really Wanna Know)? Detecting Audio DeepFakes Through Vocal
+Tract Reconstruction}},
+  author={Blue, Logan and Warren, Kevin and Abdullah, Hadi and Gibson, Cassidy and Vargas, Luis and O'Dell, Jessica and Butler, Kevin and Traynor, Patrick},
+  booktitle={{31st USENIX Security Symposium (USENIX Security 22)}},
+  year={2022}
+}
