@@ -1,0 +1,9 @@
+@inproceedings{blue2022who,
+  title={{Attacks as Defenses: Designing Robust Audio CAPTCHAs Using Attacks on
+Automatic Speech Recognition Systems}},
+  author={Abdullah, Hadi and Karleka, Aditya and Prasad, Saurabh and Rahman,
+Muhammad Sajidur and Blue, Logan and Bauer, Luke A. and Bindschaelder, Vincent
+and Traynor, Patrick},
+  booktitle={NDSS},
+  year={2023}
+}
